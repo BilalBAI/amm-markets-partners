@@ -4,7 +4,7 @@
 
 Own AMM Markets' on-chain trading mechanisms, production Pool Policy algorithms, and quantitative research. The goal is to keep pools tradable within explicit risk boundaries and improve long-term LP economics through verifiable research.
 
-This is a **human leadership role** accountable for the full algorithm lifecycle: research, design, testing, deployment, production operation, and post-incident learning.
+This role is accountable for the full algorithm lifecycle: research, design, testing, deployment, production operation, and post-incident learning.
 
 ## Responsibilities
 
@@ -24,7 +24,7 @@ This is a **human leadership role** accountable for the full algorithm lifecycle
 
 The chain-specific Policy Managers and Quant Researcher are **AI agents assisting this role, not employee positions in this hiring plan**. They may analyze and act within their authorization, but their outputs must retain evidence and remain reviewable. Production changes must still pass testing, review, permission, and release gates.
 
-The human Lead is accountable for agent tasking, work quality, permission boundaries, and production outcomes. Delegation to an AI agent does not remove human accountability for algorithm decisions or incident response.
+The Lead is accountable for agent tasking, work quality, permission boundaries, and production outcomes. Delegation to an AI agent does not remove the Lead's accountability for algorithm decisions or incident response.
 
 ## Scope and boundaries
 
