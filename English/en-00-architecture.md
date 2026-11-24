@@ -8,7 +8,7 @@ The website platform is separate from the high-frequency on-chain systems. The w
 
 ## Five core hiring roles
 
-These five are proposed **human positions**. Chain-specific Policy Managers and Quant Research are existing **AI agents**, not additional employee positions.
+These five are proposed hiring roles. Chain-specific Policy Managers and Quant Research are existing **AI agents**, not employee positions.
 
 - **AMM Protocol & Pool Policy Lead**: owns Hook mechanisms, production Pool Policy algorithms, and Quant Research; is accountable for algorithm correctness and liveness and supervises the Policy Manager and Quant Research AI agents.
 - **Web3 Platform Engineer**: website, wallets, LP workflows, and transaction previews.
@@ -16,10 +16,10 @@ These five are proposed **human positions**. Chain-specific Policy Managers and 
 - **Infrastructure, Architecture & Security Engineer**: system architecture, servers, networking, deployment, security, and disaster recovery.
 - **Ecosystem, Growth & LP Partnerships Lead**: growth, community, LP acquisition, institutional partnerships, and channels.
 
-## Human leadership and AI agents
+## Hiring roles and AI agents
 
 ```text
-AMM Protocol & Pool Policy Lead (human)
+AMM Protocol & Pool Policy Lead (hiring role)
 ├── Quant Research AI agent: baseline fee / price-bound research and validation
 └── Chain-specific Policy Manager AI agents: production checks, anomaly analysis,
     and actions within their authorization
@@ -32,7 +32,7 @@ Ecosystem, Growth & LP Partnerships Lead
 LPs, institutions, wallets, and ecosystem partnerships
 ```
 
-AI agent analyses and actions must retain reviewable evidence and follow production testing, review, permission, and release gates. The human Lead remains accountable for tasking, work quality, permission boundaries, and production outcomes.
+AI agent analyses and actions must retain reviewable evidence and follow production testing, review, permission, and release gates. The Lead remains accountable for tasking, work quality, permission boundaries, and production outcomes.
 
 ## Collaboration
 
